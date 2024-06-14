@@ -21,6 +21,16 @@ Here are some ideas to get you started:
 
 <br>
 
+## Profile
+
+<br><br><br>
+
+## GitHub Stat and Languages
+![eunji's GitHub stats](https://github-readme-stats.vercel.app/api?username=iieunji023&show_icons=true&theme=radical)
+![eunji's Most using](https://github-readme-stats.vercel.app/api/top-langs/?username=iieunji023&theme=onedark&layout=compact)
+
+<br><br><br>
+
 ## 🛠 Language & Tools 🛠
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
     <!-- Backend -->
@@ -48,10 +58,30 @@ Here are some ideas to get you started:
         <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"> 
         <img src="https://img.shields.io/badge/bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white">
     </div>
+    <!-- Frontend -->
+    <p><strong>Tools</strong></p>
+    <div>
+        <img src="https://github.com/iieunji023/iieunji023/assets/134913155/8a53bc53-826b-4103-93a6-4ca635171631" width="40" title="Visual Studio Code"> 
+    </div>
 <br><br><br>
 
-   ![eunji's GitHub stats](https://github-readme-stats.vercel.app/api?username=iieunji023&show_icons=true&theme=radical)
-</div>
+## Technique Table
+| 기술분류 | 보유기술 |
+| :---: | :---: |
+| Visual Studio Code | Python 개발, Spring Boot 개발|
+| Oracle 21c | Database 기본학습|
+
+<br><br><br>
+
+## Portfolio
+- Phython
+  - [빅데이터분석](https://github.com/iieunji023/java-bigdata-2024)
+- Java
+  - [SpringBoot](https://github.com/iieunji023/basic-springboot-2024)
+
+<br><br><br>
+  
+
 <img src="https://github.com/Koeyh/Koeyh/blob/output/github-contribution-grid-snake.svg"/>
 
 
