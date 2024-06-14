@@ -15,8 +15,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<!-- 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=6994CDEE&text=&animation=twinkling&height=80)
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=45&duration=3500&pause=3&color=6994CDEE&center=false&vCenter=false&multiline=true&repeat=true&width=1000&height=100&lines=Welcome+to+my+GitHub!👋)](https://git.io/typing-svg)
+-->
+
+<p align='center'>
+  <a href="https://github.com/iieunji023">
+    <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&fontColor=EFE4B0&height=300&section=header&text=eunji's%20Lecture%20Repository&fontSize=40&animation=twinkling"/>
+  </a>
+</p>
 
 
 <br>
@@ -61,7 +69,7 @@ Here are some ideas to get you started:
     <!-- Frontend -->
     <p><strong>Tools</strong></p>
     <div>
-        <img src="https://github.com/iieunji023/iieunji023/assets/134913155/8a53bc53-826b-4103-93a6-4ca635171631" width="40" title="Visual Studio Code"> 
+        <img height="40" src="https://github.com/iieunji023/iieunji023/assets/134913155/8a53bc53-826b-4103-93a6-4ca635171631" title="Visual Studio Code"> 
     </div>
 <br><br><br>
 
