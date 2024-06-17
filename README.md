@@ -27,7 +27,6 @@ Here are some ideas to get you started:
 </p>
 
 
-<br>
 
 ## Profile
 
@@ -37,7 +36,7 @@ Here are some ideas to get you started:
 ![eunji's GitHub stats](https://github-readme-stats.vercel.app/api?username=iieunji023&show_icons=true&theme=radical)
 ![eunji's Most using](https://github-readme-stats.vercel.app/api/top-langs/?username=iieunji023&theme=onedark&layout=compact)
 
-<br><br><br>
+
 
 ## 🛠 Language & Tools 🛠
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
@@ -71,7 +70,6 @@ Here are some ideas to get you started:
     <div>
         <img height="40" src="https://github.com/iieunji023/iieunji023/assets/134913155/8a53bc53-826b-4103-93a6-4ca635171631" title="Visual Studio Code"> 
     </div>
-<br><br><br>
 
 ## Technique Table
 | 기술분류 | 보유기술 |
@@ -79,7 +77,6 @@ Here are some ideas to get you started:
 | Visual Studio Code | Python 개발, Spring Boot 개발|
 | Oracle 21c | Database 기본학습|
 
-<br><br><br>
 
 ## Portfolio
 - Phython
@@ -87,7 +84,7 @@ Here are some ideas to get you started:
 - Java
   - [SpringBoot](https://github.com/iieunji023/basic-springboot-2024)
 
-<br><br><br>
+
   
 
 <img src="https://github.com/Koeyh/Koeyh/blob/output/github-contribution-grid-snake.svg"/>
