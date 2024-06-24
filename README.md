@@ -85,6 +85,15 @@ Here are some ideas to get you started:
   - [SpringBoot](https://github.com/iieunji023/basic-springboot-2024)
 
 
+<div style="text-align: left;">
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> <br> 
+    <div style="text-align: left;"> <a href=https://iieunji023.tistory.com/> <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white&link=https://iieunji023.tistory.com/"> </a>
+         <a href=https://equable-process-5ca.notion.site/cc9baef5058042cbb9ae89982d421b0a?pvs=4> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white&link=https://equable-process-5ca.notion.site/cc9baef5058042cbb9ae89982d421b0a?pvs=4"> </a>
+         <a href=mailto:iieunji023@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:iieunji023@gmail.com"> </a>
+          </div>  <br> 
+    <div style="text-align: left;">  </div> 
+    </div>
+    
   
 
 <img src="https://github.com/Koeyh/Koeyh/blob/output/github-contribution-grid-snake.svg"/>
