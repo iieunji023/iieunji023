@@ -92,11 +92,12 @@ Here are some ideas to get you started:
 | Oracle 21c | Database 기본학습|
 
 
-## Portfolio
-- Phython
-  - [빅데이터분석](https://github.com/iieunji023/java-bigdata-2024)
-- Java
-  - [SpringBoot](https://github.com/iieunji023/basic-springboot-2024)
+## Projects
+- 🏨[swimpyo](https://github.com/iieunji023/swimpyoBackend.git)
+- 💬[ebtalk](https://github.com/pknu-java-ebtalk/ebtalk-backend-pjt.git)
+- 💻[빅데이터분석](https://github.com/iieunji023/java-bigdata-2024)
+- 💻[SpringBoot](https://github.com/iieunji023/basic-springboot-2024)
+
 
 
 <div style="text-align: left;">
@@ -107,9 +108,11 @@ Here are some ideas to get you started:
           </div>  <br> 
     <div style="text-align: left;">  </div> 
     </div>
+
     
-  
+
 
 <img src="https://github.com/Koeyh/Koeyh/blob/output/github-contribution-grid-snake.svg"/>
 
 
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
