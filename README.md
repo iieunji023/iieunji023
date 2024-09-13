@@ -31,17 +31,22 @@ Here are some ideas to get you started:
 </p>
 <br>-->
 
-## Profile
+## 👩‍💻 Profile 
+🙆‍♀️ Name: Lee EunJi<br/>
+🖥️ Education<br/>
+  - 2023.04. ~ 2023.11. 베스핀글로벌 클라우드 청년인재 양성과정 3기<br/>
+  - 2024.01 ~ 2024.07. 부경대학교 빅데이터를 활용한 JAVA 개발자 과정<br/>
+📥 Email: iieunji023@gmail.com
 
 <br><br><br>
 
-## GitHub Stat and Languages
+## 🏆 GitHub Stat and Languages
 ![eunji's GitHub stats](https://github-readme-stats.vercel.app/api?username=iieunji023&show_icons=true&theme=radical)
 ![eunji's Most using](https://github-readme-stats.vercel.app/api/top-langs/?username=iieunji023&theme=onedark&layout=compact)
 
 
 
-## 🛠 Language & Tools 🛠
+## 🛠 Language & Tools
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
     <!-- Backend -->
     <p><strong>Backend</strong></p>
@@ -85,14 +90,14 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white">
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 
-## Technique Table
+## 🔑 Technique Table
 | 기술분류 | 보유기술 |
 | :---: | :---: |
 | Visual Studio Code | Python 개발, Spring Boot 개발|
 | Oracle 21c | Database 기본학습|
 
 
-## Projects
+## 🗂️ Projects
 - 🏨[swimpyo](https://github.com/iieunji023/swimpyoBackend.git)
 - 💬[ebtalk](https://github.com/pknu-java-ebtalk/ebtalk-backend-pjt.git)
 - 💻[빅데이터분석](https://github.com/iieunji023/java-bigdata-2024)
@@ -101,7 +106,7 @@ Here are some ideas to get you started:
 
 
 <div style="text-align: left;">
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> <br> 
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> 
     <div style="text-align: left;"> <a href=https://iieunji023.tistory.com/> <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white&link=https://iieunji023.tistory.com/"> </a>
          <a href=https://equable-process-5ca.notion.site/cc9baef5058042cbb9ae89982d421b0a?pvs=4> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white&link=https://equable-process-5ca.notion.site/cc9baef5058042cbb9ae89982d421b0a?pvs=4"> </a>
          <a href=mailto:iieunji023@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:iieunji023@gmail.com"> </a>
