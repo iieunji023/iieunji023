@@ -38,7 +38,6 @@ Here are some ideas to get you started:
   - 2024.01 ~ 2024.07. 부경대학교 빅데이터를 활용한 JAVA 개발자 과정<br/>
 📥 Email: iieunji023@gmail.com
 
-<br><br><br>
 
 ## 🏆 GitHub Stat and Languages
 ![eunji's GitHub stats](https://github-readme-stats.vercel.app/api?username=iieunji023&show_icons=true&theme=radical)
