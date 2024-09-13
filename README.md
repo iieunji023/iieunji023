@@ -34,8 +34,8 @@ Here are some ideas to get you started:
 ## 👩‍💻 Profile 
 🙆‍♀️ Name: Lee EunJi<br/>
 🖥️ Education<br/>
-▫️ 2023.04. ~ 2023.11. 베스핀글로벌 클라우드 청년인재 양성과정 3기<br/>
-▫️ 2024.01 ~ 2024.07. 부경대학교 빅데이터를 활용한 JAVA 개발자 과정<br/>
+▫️ 2023.04. ~ 2023.11. 베스핀글로벌 클라우드 청년인재 양성과정 3기 <br/>
+▫️ 2024.01 ~ 2024.07. 부경대학교 빅데이터를 활용한 JAVA 개발자 과정 <br/>
 📥 Email: iieunji023@gmail.com
 
 ## 🏆 GitHub Stat and Languages
