@@ -88,12 +88,13 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white">
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 
+<!--
 ## 🔑 Technique Table
 | 기술분류 | 보유기술 |
 | :---: | :---: |
 | Visual Studio Code | Python 개발, Spring Boot 개발|
 | Oracle 21c | Database 기본학습|
-
+-->
 
 ## 🗂️ Projects
 - 🏨[swimpyo](https://github.com/iieunji023/swimpyoBackend.git)
