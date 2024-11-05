@@ -100,9 +100,11 @@ Here are some ideas to get you started:
 ## 🗂️ Projects
 - 🏨[swimpyo](https://github.com/iieunji023/swimpyoBackend.git)
 - 💬[ebtalk](https://github.com/pknu-java-ebtalk/ebtalk-backend-pjt.git)
+
+
+## 📖 Study
 - 💻[빅데이터분석](https://github.com/iieunji023/java-bigdata-2024)
 - 💻[SpringBoot](https://github.com/iieunji023/basic-springboot-2024)
-
 
 
 <div style="text-align: left;">
