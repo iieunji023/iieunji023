@@ -119,7 +119,7 @@ Here are some ideas to get you started:
     
 
 
-<img src="https://github.com/Koeyh/Koeyh/blob/output/github-contribution-grid-snake.svg"/>
+<!-- <img src="https://github.com/Koeyh/Koeyh/blob/output/github-contribution-grid-snake.svg"/>  -->
 
 
 
