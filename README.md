@@ -39,8 +39,9 @@ Here are some ideas to get you started:
 📥 Email: iieunji023@gmail.com
 
 ## 🏆 GitHub Stat and Languages
-![eunji's GitHub stats](https://github-readme-stats.vercel.app/api?username=iieunji023&show_icons=true&theme=radical)
-![eunji's Most using](https://github-readme-stats.vercel.app/api/top-langs/?username=iieunji023&theme=onedark&layout=compact)
+[![iieunji023's GitHub stats](https://github-readme-stats.vercel.app/api?username=iieunji023)](https://github.com/iieunji023/github-readme-stats)
+
+
 
 
 
@@ -126,3 +127,5 @@ Here are some ideas to get you started:
 
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fiieunji023%2Fhit-counter&count_bg=%23FFC8FA&title_bg=%23BAB8B8&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
